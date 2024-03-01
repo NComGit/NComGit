@@ -4,12 +4,17 @@
 
 ## :computer: In my element with ↓ – where every project is an adventure.
 
-<img src = 'Images\csharp-plain.svg' width='45' style="margin-right: 20px;"/><img src = 'Images\dotnetcore-original.svg' width='45' style="margin-left: 20px;"/>
-<img src = 'Images\amazonwebservices-plain-wordmark.svg' width='45' style="margin-right: 20px;"/><img src = 'Images\digitalocean-original-wordmark.svg' width='45' style="margin-left: 20px;"/>
-
-- Cloud computing: AWS & DigitalOcean
-- JavaScript
-- Docker
+<img src = 'Images\csharp-plain.svg' width='45' style="margin-right: 20px;"/>
+<img src = 'Images\dotnetcore-original.svg' width='45' style="margin-left: 20px;"/>
+<img src = 'Images\javascript-original.svg' width='45' style="margin-left: 20px;"/>
+<img src = 'Images\nodejs-plain-wordmark.svg' width='45' style="margin-left: 20px;"/>
+<br>
+<img src = 'Images\amazonwebservices-plain-wordmark.svg' width='45' style="margin-right: 20px;"/>
+<img src = 'Images\azure-original-wordmark.svg' width='45' style="margin-left: 20px;"/>
+<img src = 'Images\digitalocean-original-wordmark.svg' width='45' style="margin-left: 20px;"/>
+<br>
+<img src = 'Images\docker-plain-wordmark.svg' width='45' style="margin-right: 20px;"/>
+<img src = 'Images\digitalocean-original-wordmark.svg' width='45' style="margin-left: 20px;"/>
 
 ## :computer: Proficient in ↓ – respect the code, even when it's not your first choice.
 
