@@ -4,8 +4,8 @@
 
 ## :computer: In my element with ↓ – where every project is an adventure.
 
-<img src = 'Images\csharp-plain.svg' width='45'/><img src = 'Images\dotnetcore-original.svg' width='45'/>
-<img src = 'Images\amazonwebservices-plain-wordmark.svg' width='45'/><img src = 'Images\digitalocean-original-wordmark.svg' width='45'/>
+<img src = 'Images\csharp-plain.svg' width='45' style="margin-right: 20px;"/><img src = 'Images\dotnetcore-original.svg' width='45' style="margin-left: 20px;"/>
+<img src = 'Images\amazonwebservices-plain-wordmark.svg' width='45' style="margin-right: 20px;"/><img src = 'Images\digitalocean-original-wordmark.svg' width='45' style="margin-left: 20px;"/>
 
 - Cloud computing: AWS & DigitalOcean
 - JavaScript
