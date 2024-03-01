@@ -15,9 +15,12 @@
 
 ## :computer: Proficient in ↓ – respect the code, even when it's not your first choice.
 
-<img src = 'Images\java-original-wordmark.svg' width='45' style="margin-right: 20px;"/>
-<img src = 'Images\spring-original-wordmark.svg' width='45' style="margin-left: 20px;"/>
-
+<img src = 'Images\java-original-wordmark.svg' width='45' style="margin-right: 20px;"/><img src = 'Images\spring-original-wordmark.svg' width='45' style="margin-left: 20px;"/>
+<br>
+<img src = 'Images\react-original-wordmark.svg' width='45' style="margin-right: 20px;"/>
+<img src = 'Images\php-original.svg' width='45' style="margin-left: 20px;"/>
+<img src = 'Images\css3-original-wordmark.svg' width='45' style="margin-left: 20px;"/>
+<br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NComGit&layout=compact">
 
 ## Current Works
