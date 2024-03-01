@@ -20,8 +20,8 @@
 <img src = 'Images\react-original-wordmark.svg' width='45' style="margin-right: 20px;"/>
 <img src = 'Images\php-original.svg' width='45' style="margin-left: 20px;"/>
 <img src = 'Images\css3-original-wordmark.svg' width='45' style="margin-left: 20px;"/>
-<br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NComGit&layout=compact">
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NComGit&layout=compact" style="margin-top: 60px;">
 
 ## Current Works
 
