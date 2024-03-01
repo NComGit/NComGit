@@ -1,6 +1,6 @@
-<h1>Welcome</h1>
+<h1>A bit about me</h1>
 
-<div style="text-align: right">Looking for new and lucrative ways to acquire street-cred.</div>
+## I'm always looking for new and lucrative ways to acquire street-cred.
 
 ## :computer: In my element with ↓ – where every project is an adventure.
 
