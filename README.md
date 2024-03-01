@@ -1,6 +1,6 @@
 <h1>A bit about me</h1>
 
-## I'm always looking for new and lucrative ways to acquire street-cred.
+** I'm always looking for new and lucrative ways to acquire street-cred. **
 
 ## :computer: In my element with ↓ – where every project is an adventure.
 
