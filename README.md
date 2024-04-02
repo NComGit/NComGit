@@ -26,4 +26,5 @@
 ## Current Works
 
 - Learning about Cybersec
-- Working on a music downloader built with .Net Framework/WPF and improving my understanding of React
+- Working on a music downloader built with .Net Core/WPF
+- Working on a React/NodeJS based kanban board web app
